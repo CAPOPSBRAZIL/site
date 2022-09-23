@@ -5,7 +5,6 @@ remote_theme: open-sdg/open-sdg@2.0.0
 
 # Replace this title as needed.
 title: CENSUS 2022 Brazil / Subset Children's data
-description: NO REAL DATA!! JUST PROOF OF CONCEPT!!
 url: ""
 environment: staging
 # Pages
